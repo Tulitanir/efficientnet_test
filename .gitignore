@@ -3,3 +3,4 @@ fullMin256
 *.tar.gz
 *.pkl
 *.csv
+*.pth
